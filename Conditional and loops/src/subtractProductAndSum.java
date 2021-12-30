@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class subtractProductAndSum {
+//    leetcode question :https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/submissions/
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int n =sc.nextInt();
